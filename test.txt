@@ -1,0 +1,3 @@
+https://github.com/FlameZerg/mcphub
+仔细获取该网站页面内容，这是一个mcphub的管理界面，需要docker作为部署前置条件，但是我电脑没有安装docker，所以请你寻找一种无需docker并且能够部署在vercel平台上利用github仓库进行代码托管的服务方式。
+现在我将项目代码下载到了0test文件夹，请你根据要求修改当前项目代码让其能够在vercel平台成功部署的方式。
